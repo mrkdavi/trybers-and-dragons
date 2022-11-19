@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mrkdavi/trybers-and-dragons>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mrkdavi/trybers-and-dragons">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mrkdavi/trybers-and-dragons">
 <img alt="GitHub" src="https://img.shields.io/badge/category-RPG-red">    
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mrkdavi/trybers-and-dragons?style=social">
